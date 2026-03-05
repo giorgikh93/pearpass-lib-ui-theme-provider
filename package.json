@@ -25,8 +25,7 @@
     "react-native": "0.78.1"
   },
   "peerDependencies": {
-    "styled-components": "^6.1.19",
-    "tether-dev-docs": "0.0.x"
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
